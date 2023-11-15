@@ -1,0 +1,11 @@
+Welcome to Wing’s supermarket
+----------------------------------------
+Purchase amount $200
+Tax (tax rate is 5%) $10
+----------------------------------------
+Total $210
+Thank you!
+
+ ---------------Coupon--------------
+ 10% off for the next purchase.
+----------------------------------------

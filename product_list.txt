@@ -1,0 +1,10 @@
+Chicken 20
+Milk 6.5
+Chocolate 10
+Pasta 18.5
+Sugar 6.5
+Salt 5.5
+Mushroom 12
+Coke 5.4
+Pepsi 4.8
+Fanta 4.6
